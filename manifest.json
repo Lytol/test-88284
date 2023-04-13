@@ -672,7 +672,7 @@
     },
     "rowr": {
       "Source": "RSPM",
-      "Repository": null,
+      "Repository": "https://packagemanager.posit.co/cran/__linux__/jammy/latest",
       "description": {
         "Package": "rowr",
         "Title": "Row-Based Functions for R Objects",
